@@ -1,6 +1,8 @@
 [submodule "typescript"]
 	path = typescript
 	url = https://github.com/mcdait/mcda.js.git
+	branch = main
 [submodule "python"]
 	path = python
 	url = https://github.com/energyinpython/pyrepo-mcda.git
+	branch = main
