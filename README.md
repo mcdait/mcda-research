@@ -207,7 +207,3 @@ The ecosystem supports MCDA research in two complementary environments:
 
 - **Python** can be used for data preparation, numerical experiments, statistical analysis, and sensitivity or robustness studies.
 - **TypeScript/JavaScript** can be used to build interactive interfaces, explore decision scenarios, and integrate MCDA methods into web-based decision-support applications.
-
-## License
-
-Please refer to the `LICENSE` file in each submodule for the license applicable to the corresponding library. The licenses of the individual submodules apply independently of the main repository.
